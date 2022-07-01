@@ -1,2 +1,2 @@
-# meuportefolio
-projeto final do meu portefólio
+Meu portefólio
+projeto final.
